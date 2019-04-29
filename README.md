@@ -1,24 +1,24 @@
 # Project03-ST0263
 Proyecto 3 - Big Data Spark
 
-#Preparacion de datos
+# Preparacion de datos
 
-##Proceso de diseño
+## Proceso de diseño
 
 
 
-##Pruebas
+## Pruebas
 
-##Instalacion
+## Instalacion
 
-##Ejecucion
+## Ejecucion
 
-#Busqueda indice invertido
+# Busqueda indice invertido
 
-##Proceso de diseño
+## Proceso de diseño
 
-##Pruebas
+## Pruebas
 
-##Instalacion
+## Instalacion
 
-##Ejecucion
+## Ejecucion
